@@ -12,7 +12,7 @@ Metadata for each token can include an image, animation, attributes, scalar prop
 - [Selling Tokens](#selling-tokens)
   - [Selling in Bulk](#selling-in-bulk)
 - [Troubleshooting](#troubleshooting)
-
+`
 ## Getting Started
 
 ### Requirements
