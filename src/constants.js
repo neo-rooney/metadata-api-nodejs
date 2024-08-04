@@ -1,5 +1,5 @@
-const HOST = 'https://birthstamps.herokuapp.com'
+const HOST = "https://metadata-api-nodejs-eight.vercel.app";
 
 module.exports = {
-  HOST
-}
+  HOST,
+};
