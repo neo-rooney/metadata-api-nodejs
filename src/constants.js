@@ -1,4 +1,5 @@
-const HOST = "https://metadata-api-nodejs-eight.vercel.app";
+const HOST =
+  "https://metadata-api-nodejs-keqhhfbvk-rooneydevs-projects.vercel.app";
 
 module.exports = {
   HOST,
